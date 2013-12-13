@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="BeelineSMS:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BeelineSMS_jar</output-path>
+    <root id="archive" name="BeelineSMS.jar">
+      <element id="module-output" name="BeelineSMS" />
+    </root>
+  </artifact>
+</component>
